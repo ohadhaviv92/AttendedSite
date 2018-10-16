@@ -2,4 +2,4 @@
 
 react js site 
 
-<img src="world cup bet.gif" width="400">
+<img src="ezgif.com-crop.gif" width="400">
